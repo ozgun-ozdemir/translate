@@ -1,4 +1,5 @@
 # Turkish to English Translation
+Translates Turkish text to English using the MarianMT model from Hugging Face Transformers, supporting both text and voice input.
 
 ## Features
 - **Marian Text Translater**: Enter Turkish text to receive English translations.
